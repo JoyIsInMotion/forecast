@@ -2,20 +2,6 @@
 
 This project shows weather by city using the free Open-Meteo API.
 
-## Live Demo
-
-After publishing this repository and enabling GitHub Pages, your demo URL will be:
-
-https://YOUR_GITHUB_USERNAME.github.io/forecast/
-
-## Screenshot
-
-Add your screenshot in the repo and update this section to display it.
-
-Example:
-
-![Weather App Screenshot](./docs/screenshot.png)
-
 ## Features
 
 - Search flow: enter city -> click Search -> display weather
@@ -53,12 +39,7 @@ npm run lint
 
 ## Deployment (GitHub Pages)
 
-This project includes a GitHub Actions workflow to deploy on every push to main.
-
-1. Push the repo to GitHub
-2. In GitHub, open Settings -> Pages
-3. Set Source to GitHub Actions
-4. Push to main again (or rerun workflow)
+https://joyisinmotion.github.io/forecast/
 
 ## Open-Meteo Flow
 The app uses two API calls when you search:
